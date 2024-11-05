@@ -6,6 +6,8 @@ File naming follows the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3
 
 **Note**: The original readme.txt and blogpost specifies the flags to be free with attribution. For further information read the original readme.txt.
 
+![Flag preview](./flag-icons-preview.png)
+
 **Disclaimer!** All rights reserved to the respective copyright owners.
 
 ---
