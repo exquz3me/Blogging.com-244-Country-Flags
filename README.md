@@ -4,7 +4,11 @@ This repository is a archive of the country flag png icons provided by **Bloggin
 
 File naming follows the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) specification.
 
-**Note**: The original readme.txt and blogpost specifies the flags to be free with attribution. For further information read the original readme.txt.
+**Notes**: 
+- The original readme.txt and blogpost specifies the flags to be free with attribution. For further information read the original readme.txt.
+
+- Images have been optimized using [oxipng](https://github.com/shssoichiro/oxipng), lossless compression and meta-data stripping was applied:
+ >oxipng -o max --strip safe --alpha *.png
 
 ![Flag preview](./flag-icons-preview.png)
 
