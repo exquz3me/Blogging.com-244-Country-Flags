@@ -22,3 +22,11 @@ The original blog post is missing flags for the following offcially assigned cou
 The **[TN](https://commons.wikimedia.org/wiki/File:Flag_of_Tunisia.svg) [TO](https://commons.wikimedia.org/wiki/File:Flag_of_Tonga_(3-2).svg) [TR](https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg)** flags have a significant offset to the left, causing the specified flags to appear clipped. (Replacements can be found in the fixes folder)
 
 ---
+### License
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
